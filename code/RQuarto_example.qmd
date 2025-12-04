@@ -50,7 +50,7 @@ Variable `r names[1]` has the following overall measure of mean and standard dev
 * **mean =** `r mean(mtcars$mpg)`
 * **standard deviation** = `r sd(mtcars$mpg)`
 
-Variable `r names[9]` has the following frequency counts and summary statistics in association with Miles per Gallon.  
+Variable `r names[9]` has the following frequency counts and summary statistics in association with Miles per Gallon. Check it ou.   
 
 `r changend`
 
